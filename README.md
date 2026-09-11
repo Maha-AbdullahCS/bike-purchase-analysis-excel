@@ -82,3 +82,10 @@ Based on the patterns identified in the analysis:
 6. **Target Key Customer Segments:** Professionals and customers with Bachelor's degrees represent strong purchasing segments and could be prioritized in targeted marketing campaigns.
 7. **Explore Lower-Purchase Segments:** Further investigate why purchase volumes are lower among **Adolescents (0–31), Older Adults (54+), Manual workers, and customers with longer commute distances.**
 
+## Project Files
+
+* `bike_purchase_dataset_raw.xlsx` — Original raw dataset.
+* `Bike_Purchase_Dataset_Cleaned.xlsx` — Cleaned dataset prepared for analysis.
+* `Bike_Purchase_Analysis.xlsx` — Excel workbook containing the analysis and PivotTables.
+* `Bike_Purchase_Dashboard.jpg` — dashboard presenting the key findings and visualizations.
+* `README.md` — Project documentation, including the analysis, key insights, and recommendations.
